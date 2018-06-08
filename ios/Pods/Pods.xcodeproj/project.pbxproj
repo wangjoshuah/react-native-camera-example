@@ -474,12 +474,12 @@
 		0A4F23984F7555A31F727077FB21B7BB /* RCTAlertManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTAlertManager.h; path = React/Modules/RCTAlertManager.h; sourceTree = "<group>"; };
 		0CE47A32CC47104274D27EE4196F3A81 /* RCTViewControllerProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTViewControllerProtocol.h; path = React/Views/RCTViewControllerProtocol.h; sourceTree = "<group>"; };
 		0D287731D1E58C5CD6B6C363E50D91CA /* RCTExceptionsManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTExceptionsManager.m; path = React/Modules/RCTExceptionsManager.m; sourceTree = "<group>"; };
-		0D302EFFB3241EBA2683976087A464A9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		0D302EFFB3241EBA2683976087A464A9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		0D37ABB5156851B7207B4BB57E375F06 /* RCTProfile.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTProfile.h; path = React/Base/RCTProfile.h; sourceTree = "<group>"; };
 		0DB8E8416B3E54505739D88B56BDB584 /* RCTJavaScriptLoader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTJavaScriptLoader.m; path = React/Base/RCTJavaScriptLoader.m; sourceTree = "<group>"; };
 		0F5775CFBD8007B9A53D9A2E225D0A40 /* RCTDevMenu.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTDevMenu.m; path = React/Modules/RCTDevMenu.m; sourceTree = "<group>"; };
 		0F7F47C7159ABC5A8E10FE52D597D438 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		100F56BFA80E075716A26D24D8654C8A /* React.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = React.framework; path = React.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		100F56BFA80E075716A26D24D8654C8A /* React.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = React.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1306FEDCEE05BF688AC08A288505962B /* RCTProfile.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTProfile.m; path = React/Base/RCTProfile.m; sourceTree = "<group>"; };
 		13C2120204E84230E12EB009417CAF75 /* RCTWebViewExecutor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTWebViewExecutor.h; path = React/Executors/RCTWebViewExecutor.h; sourceTree = "<group>"; };
 		13F66935DC53B137A8E5E4A9F7DD8C43 /* RCTRootView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTRootView.m; path = React/Base/RCTRootView.m; sourceTree = "<group>"; };
@@ -488,7 +488,7 @@
 		174073C4FCF3774A89C6656D1322C1D3 /* RCTContextExecutor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTContextExecutor.h; path = React/Executors/RCTContextExecutor.h; sourceTree = "<group>"; };
 		185085FF5FBEAD64BBAC358DD1E8A50E /* react-native-camera-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "react-native-camera-umbrella.h"; sourceTree = "<group>"; };
 		1950FD9127292C60BFDFCBCD782637C6 /* RCTURLRequestDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTURLRequestDelegate.h; path = React/Base/RCTURLRequestDelegate.h; sourceTree = "<group>"; };
-		19C096A0D14760C1DF873A104A39AAA5 /* RNCamera.md */ = {isa = PBXFileReference; includeInIndex = 1; name = RNCamera.md; path = docs/RNCamera.md; sourceTree = "<group>"; };
+		19C096A0D14760C1DF873A104A39AAA5 /* RNCamera.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = RNCamera.md; path = docs/RNCamera.md; sourceTree = "<group>"; };
 		19EBE67E4F3162BD912AB952315454AD /* RCTAssert.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTAssert.m; path = React/Base/RCTAssert.m; sourceTree = "<group>"; };
 		19F4A6E551B7FABF41D3541EFC7BD9E1 /* RCTSliderManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTSliderManager.h; path = React/Views/RCTSliderManager.h; sourceTree = "<group>"; };
 		19FEBFABD36FA0FA62B89EE9B8E59493 /* RNCameraManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RNCameraManager.h; path = ios/RN/RNCameraManager.h; sourceTree = "<group>"; };
@@ -499,12 +499,12 @@
 		1B6D099FBFF3E2509465709E92E1C7A5 /* RCTTabBarItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTTabBarItem.m; path = React/Views/RCTTabBarItem.m; sourceTree = "<group>"; };
 		1B8B32D6ADA4B54A2E7F952699D69156 /* RCTKeyboardObserver.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTKeyboardObserver.m; path = React/Base/RCTKeyboardObserver.m; sourceTree = "<group>"; };
 		1C759E0D0428ECB6E0010E4913FAC1F3 /* RCTBridgeDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTBridgeDelegate.h; path = React/Base/RCTBridgeDelegate.h; sourceTree = "<group>"; };
-		1E1A9D97CBF1E050EAE5099471CB2E70 /* QA.md */ = {isa = PBXFileReference; includeInIndex = 1; name = QA.md; path = docs/QA.md; sourceTree = "<group>"; };
+		1E1A9D97CBF1E050EAE5099471CB2E70 /* QA.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = QA.md; path = docs/QA.md; sourceTree = "<group>"; };
 		1E4EAB51BF781FD36A5F83B73F3820DB /* RCTUIManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTUIManager.m; path = React/Modules/RCTUIManager.m; sourceTree = "<group>"; };
 		1FBE55EDD9B149A396D5679373E69264 /* Pods-reactnativecameraexample-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-reactnativecameraexample-dummy.m"; sourceTree = "<group>"; };
 		21B4B516932AD796387D66D6371E24B4 /* RCTKeyCommands.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTKeyCommands.m; path = React/Base/RCTKeyCommands.m; sourceTree = "<group>"; };
 		22DE63681440A3B3448F88E5D56F06AE /* RCTPointAnnotation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTPointAnnotation.m; path = React/Modules/RCTPointAnnotation.m; sourceTree = "<group>"; };
-		22E3E472165756302B794CCA7E64D27F /* migration.md */ = {isa = PBXFileReference; includeInIndex = 1; name = migration.md; path = docs/migration.md; sourceTree = "<group>"; };
+		22E3E472165756302B794CCA7E64D27F /* migration.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = migration.md; path = docs/migration.md; sourceTree = "<group>"; };
 		23198E722AC5528B1D5ABA24BE059520 /* RCTSlider.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTSlider.h; path = React/Views/RCTSlider.h; sourceTree = "<group>"; };
 		2435A537184D75376418372E0D7E8655 /* UIView+React.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+React.h"; path = "React/Views/UIView+React.h"; sourceTree = "<group>"; };
 		2565341F85106074B551D6BB9A3422CA /* RCTWebViewManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTWebViewManager.h; path = React/Views/RCTWebViewManager.h; sourceTree = "<group>"; };
@@ -523,7 +523,7 @@
 		3A1F5CA3BDC0042701916A0BE640D102 /* CameraFocusSquare.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CameraFocusSquare.m; path = ios/RCT/CameraFocusSquare.m; sourceTree = "<group>"; };
 		3A9746DDAB5450A28004FB93F611CB3E /* RCTBridge.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTBridge.m; path = React/Base/RCTBridge.m; sourceTree = "<group>"; };
 		3C35DE3F72C7A08FE5127AD974F6C13A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		3CAAE1D343F6299AD09405A9848DA8CD /* Pods_reactnativecameraexample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_reactnativecameraexample.framework; path = "Pods-reactnativecameraexample.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3CAAE1D343F6299AD09405A9848DA8CD /* Pods_reactnativecameraexample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_reactnativecameraexample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EF9818DE87F5ECDD52CB66AA7EB0100 /* RCTView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTView.h; path = React/Views/RCTView.h; sourceTree = "<group>"; };
 		410ED3B302D15F3EB889E370084BF245 /* RCTInvalidating.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTInvalidating.h; path = React/Base/RCTInvalidating.h; sourceTree = "<group>"; };
 		41CE046059D5BFE4B7C1A65F909F0ED1 /* RCTPicker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTPicker.h; path = React/Views/RCTPicker.h; sourceTree = "<group>"; };
@@ -558,10 +558,10 @@
 		6817BF35C51AB536FE43251438B85BDE /* RCTKeyCommands.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTKeyCommands.h; path = React/Base/RCTKeyCommands.h; sourceTree = "<group>"; };
 		6856EDC81C0CEB1BFE53705428249044 /* RCTModalHostViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTModalHostViewController.h; path = React/Views/RCTModalHostViewController.h; sourceTree = "<group>"; };
 		689974DE5848B5A66614B61F6363761D /* RCTNavItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTNavItem.m; path = React/Views/RCTNavItem.m; sourceTree = "<group>"; };
-		6C29C46ECF88BB133E20B136B021E1C3 /* react_native_camera.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = react_native_camera.framework; path = "react-native-camera.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6C29C46ECF88BB133E20B136B021E1C3 /* react_native_camera.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = react_native_camera.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D1B451F290307FD582FCD4C6F61944E /* RCTWebView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTWebView.h; path = React/Views/RCTWebView.h; sourceTree = "<group>"; };
-		6D5923BAF749D5EF350BA6D1F50BC8D3 /* Layout.c */ = {isa = PBXFileReference; includeInIndex = 1; name = Layout.c; path = React/Layout/Layout.c; sourceTree = "<group>"; };
-		6E48ECDC70A26C93439206F08E90E360 /* Recipes.md */ = {isa = PBXFileReference; includeInIndex = 1; name = Recipes.md; path = docs/Recipes.md; sourceTree = "<group>"; };
+		6D5923BAF749D5EF350BA6D1F50BC8D3 /* Layout.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = Layout.c; path = React/Layout/Layout.c; sourceTree = "<group>"; };
+		6E48ECDC70A26C93439206F08E90E360 /* Recipes.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = Recipes.md; path = docs/Recipes.md; sourceTree = "<group>"; };
 		6EA6F7B83FA588B2EEC3948D4F5C8019 /* RCTTiming.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTTiming.h; path = React/Modules/RCTTiming.h; sourceTree = "<group>"; };
 		6F6F6704C6ADB43AFC4F9CD11A9671A4 /* RCTDevLoadingView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTDevLoadingView.h; path = React/Modules/RCTDevLoadingView.h; sourceTree = "<group>"; };
 		72061A2CEDC02F1A36DD9A1A3AFEE750 /* RCTPerfStats.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTPerfStats.h; path = React/Base/RCTPerfStats.h; sourceTree = "<group>"; };
@@ -586,10 +586,10 @@
 		8CB74FE7955D1CD125FF9C2B25364FDB /* RCTConvert.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTConvert.h; path = React/Base/RCTConvert.h; sourceTree = "<group>"; };
 		8FE3A4FCF6FC071A4CFB60D14BD9440C /* RCTAlertManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTAlertManager.m; path = React/Modules/RCTAlertManager.m; sourceTree = "<group>"; };
 		91EC075E75C57F1B26483D385338B002 /* RCTUIManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTUIManager.h; path = React/Modules/RCTUIManager.h; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9405D098DCFB2D21D2EB881D2D92AC07 /* react-native-camera-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "react-native-camera-dummy.m"; sourceTree = "<group>"; };
 		9444B333CD13394E4D2BCD2F9291A46C /* RCTProgressViewManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTProgressViewManager.m; path = React/Views/RCTProgressViewManager.m; sourceTree = "<group>"; };
-		9574692113428BD0D8475EBFC0E859A0 /* GradleUpgradeGuide.md */ = {isa = PBXFileReference; includeInIndex = 1; name = GradleUpgradeGuide.md; path = docs/GradleUpgradeGuide.md; sourceTree = "<group>"; };
+		9574692113428BD0D8475EBFC0E859A0 /* GradleUpgradeGuide.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = GradleUpgradeGuide.md; path = docs/GradleUpgradeGuide.md; sourceTree = "<group>"; };
 		96060A4C4EA00240DDA94B511FDDBBD8 /* NSMutableDictionary+ImageMetadata.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSMutableDictionary+ImageMetadata.m"; path = "ios/RCT/NSMutableDictionary+ImageMetadata.m"; sourceTree = "<group>"; };
 		975DC38A8C674B4F7CF6D4EA81C605BD /* RCTTouchHandler.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTTouchHandler.m; path = React/Base/RCTTouchHandler.m; sourceTree = "<group>"; };
 		98C282407565280AE99D40C1E93B2FC5 /* RCTNavItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTNavItem.h; path = React/Views/RCTNavItem.h; sourceTree = "<group>"; };
@@ -603,7 +603,7 @@
 		A1FC34477801311A10BE0EBE03FA2B35 /* RNCameraManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RNCameraManager.m; path = ios/RN/RNCameraManager.m; sourceTree = "<group>"; };
 		A20740F63F05FB0D639EC92FDFAD4E80 /* RCTAsyncLocalStorage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTAsyncLocalStorage.m; path = React/Modules/RCTAsyncLocalStorage.m; sourceTree = "<group>"; };
 		A21F4F9B05519D4CE5B11E92841270FC /* RCTCameraManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTCameraManager.m; path = ios/RCT/RCTCameraManager.m; sourceTree = "<group>"; };
-		A2339B13664639B9C9C7A3980136ADD3 /* react-native-camera.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = "react-native-camera.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A2339B13664639B9C9C7A3980136ADD3 /* react-native-camera.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = "react-native-camera.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A2DF035B11B4B718507C38CD12CCEE8B /* RCTSliderManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTSliderManager.m; path = React/Views/RCTSliderManager.m; sourceTree = "<group>"; };
 		A3F21F7C569298E624CAECBD088EA717 /* RCTContextExecutor.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTContextExecutor.m; path = React/Executors/RCTContextExecutor.m; sourceTree = "<group>"; };
 		A4D51733BE40B5CFBA6F1D272C31C40B /* Pods-reactnativecameraexample.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-reactnativecameraexample.modulemap"; sourceTree = "<group>"; };
@@ -620,7 +620,7 @@
 		B3C70D9BC1E29A994529E67FA5180549 /* RCTCamera.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTCamera.m; path = ios/RCT/RCTCamera.m; sourceTree = "<group>"; };
 		B3D2DA3BA340E64E4211F579A9A91D64 /* RCTSourceCode.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTSourceCode.m; path = React/Modules/RCTSourceCode.m; sourceTree = "<group>"; };
 		B4F0BA99BDFA7285C3654F079C32CB08 /* React-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "React-dummy.m"; sourceTree = "<group>"; };
-		B66F0799AF38B01AF83F76DDE5D0B9FB /* RCTCamera.md */ = {isa = PBXFileReference; includeInIndex = 1; name = RCTCamera.md; path = docs/RCTCamera.md; sourceTree = "<group>"; };
+		B66F0799AF38B01AF83F76DDE5D0B9FB /* RCTCamera.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = RCTCamera.md; path = docs/RCTCamera.md; sourceTree = "<group>"; };
 		B6D03ABEBC8A9DBFC045A52802B11DFD /* RCTSegmentedControl.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTSegmentedControl.m; path = React/Views/RCTSegmentedControl.m; sourceTree = "<group>"; };
 		B7606D1EB16DD0FD87475C2961A91D35 /* RCTModalHostViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTModalHostViewController.m; path = React/Views/RCTModalHostViewController.m; sourceTree = "<group>"; };
 		B805659536CB8B764F8167914E111D34 /* RCTWrapperViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTWrapperViewController.m; path = React/Views/RCTWrapperViewController.m; sourceTree = "<group>"; };
@@ -644,7 +644,7 @@
 		D0B1B6ACF4ADC2EE4554E477E1DC41C7 /* RCTStatusBarManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTStatusBarManager.h; path = React/Modules/RCTStatusBarManager.h; sourceTree = "<group>"; };
 		D11FC443E42E80ACDB9C8454231CEADF /* RCTModalHostViewManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTModalHostViewManager.h; path = React/Views/RCTModalHostViewManager.h; sourceTree = "<group>"; };
 		D1C9BF4DA13CEABAE188EEEE53BB3E97 /* RCTAsyncLocalStorage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTAsyncLocalStorage.h; path = React/Modules/RCTAsyncLocalStorage.h; sourceTree = "<group>"; };
-		D2A4A86ACDA133AED95177E8ECD04AD5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		D2A4A86ACDA133AED95177E8ECD04AD5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		D3795A32CF809EF3D34D6B2CBB56CC04 /* RCTConvert.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTConvert.m; path = React/Base/RCTConvert.m; sourceTree = "<group>"; };
 		D4967F79D4B684A2DE9BEFFA0F88CF4B /* Pods-reactnativecameraexample-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-reactnativecameraexample-acknowledgements.markdown"; sourceTree = "<group>"; };
 		DA89EDCF424FE2868503D3CD10455B6B /* RCTPerformanceLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTPerformanceLogger.m; path = React/Base/RCTPerformanceLogger.m; sourceTree = "<group>"; };
@@ -745,7 +745,6 @@
 				656888456D5B29CF8E714AA155535F52 /* Core */,
 				A7CEBBAD42F33160EE4777F4D6F861EF /* Support Files */,
 			);
-			name = React;
 			path = React;
 			sourceTree = "<group>";
 		};
@@ -1538,6 +1537,7 @@
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				GCC_PREFIX_HEADER = "Target Support Files/react-native-camera/react-native-camera-prefix.pch";
+				HEADER_SEARCH_PATHS = "$(SRCROOT)?../node_modules/react-native/React/**";
 				INFOPLIST_FILE = "Target Support Files/react-native-camera/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
@@ -1630,6 +1630,7 @@
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				GCC_PREFIX_HEADER = "Target Support Files/react-native-camera/react-native-camera-prefix.pch";
+				HEADER_SEARCH_PATHS = "$(SRCROOT)?../node_modules/react-native/React/**";
 				INFOPLIST_FILE = "Target Support Files/react-native-camera/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
